@@ -9,4 +9,5 @@ https://www.data.gov.au
 
 https://data.melbourne.vic.gov.au
 
-
+Homework for today:
+Please browse these two sites, and try to think what kinds of projects we can work on. It doesn't matter whether these ideas are realistic or not. Just write down what you can think of.
